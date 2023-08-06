@@ -1,1 +1,1 @@
-# SQL_Database_Management_Projec
+# SQL_Database_Management_Project
